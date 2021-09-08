@@ -4,7 +4,11 @@ PROJ_NAME = Unit_Convertor
 SRC = main.c\
 src/Length_Con.c\
 src/Temprature_Con.c\
-src/Weight_Con.c
+src/Weight_Con.c\
+inc/Length_Con.h\
+inc/Temprature_Con.h\
+inc/Weight_Con.h\
+
 #TEST_SRC = src/feature.c\
 test/test_feature.c\
 unity/unity.c 
