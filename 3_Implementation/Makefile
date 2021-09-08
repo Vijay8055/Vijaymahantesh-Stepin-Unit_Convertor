@@ -2,21 +2,20 @@
 
 PROJ_NAME = Unit_Convertor
 SRC = main.c\
-src/Length_Con.c\
-src/Temprature_Con.c\
-src/Weight_Con.c\
-inc/Length_Con.h\
-inc/Temprature_Con.h\
-inc/Weight_Con.h\
+   src/Length_Con.c\
+   src/Temprature_Con.c\
+   src/Weight_Con.c\
+   inc/Length_Con.h\
+   inc/Temprature_Con.h\
+   inc/Weight_Con.h\
 
 TEST_SRC = src/Length_Con.c\
-src/Temprature_Con.c\
-src/Weight_Con.c\
-test/test_Length_Con.c\
-test/test_Temprature_Con.c\
-test/test_Weight_Con.c\
-
-unity/unity.c 
+   src/Temprature_Con.c\
+   src/Weight_Con.c\
+   test/test_Length_Con.c\
+   test/test_Temprature_Con.c\
+   test/test_Weight_Con.c\
+   unity/unity.c \
   
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
