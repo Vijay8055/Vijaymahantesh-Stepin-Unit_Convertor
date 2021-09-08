@@ -12,3 +12,5 @@
 
 [![Contribution Check - Git Inspector](https://github.com/Vijay8055/Vijaymahantesh-Stepin-Unit_Convertor/actions/workflows/gitinspector.yml/badge.svg?branch=main)](https://github.com/Vijay8055/Vijaymahantesh-Stepin-Unit_Convertor/actions/workflows/gitinspector.yml)
 
+[![cppcheck-action](https://github.com/Vijay8055/Vijaymahantesh-Stepin-Unit_Convertor/actions/workflows/cppcheck.yml/badge.svg?branch=main)](https://github.com/Vijay8055/Vijaymahantesh-Stepin-Unit_Convertor/actions/workflows/cppcheck.yml)
+
