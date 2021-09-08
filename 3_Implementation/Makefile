@@ -12,9 +12,7 @@ SRC = main.c\
 TEST_SRC = src/Length_Con.c\
    src/Temprature_Con.c\
    src/Weight_Con.c\
-   test/test_Length_Con.c\
-   test/test_Temprature_Con.c\
-   test/test_Weight_Con.c\
+   test/test.c\
    unity/unity.c \
   
 
