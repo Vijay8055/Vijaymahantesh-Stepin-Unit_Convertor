@@ -99,7 +99,7 @@ int KilogramToHundredWeight_UK(float *kg, float *cwt)
 void Weight_Conversion(void)
 {
   int choice;
-  float kg, oz, gm, lb, st, gr, mg, cwt;
+  float kg, oz, gm, lb, st, gr, mg;
   char ch;
 
   do
