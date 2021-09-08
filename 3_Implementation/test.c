@@ -1,6 +1,6 @@
 #include "unity.h"
 #include "record.h"
-#define PROJECT_NAME    "Employee_record_system"
+#define PROJECT_NAME    "Unit_Convertor"
 
 /* Required by the unity test framework */
 void setUp(){}
